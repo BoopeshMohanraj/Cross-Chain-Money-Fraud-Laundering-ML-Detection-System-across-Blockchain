@@ -1,6 +1,6 @@
 # Geospatial Multi-Criteria Analysis for Data Center Placement
 
-A decision-support framework that ranks U.S. states as candidate locations for a data center by combining multiple siting factors - energy cost, natural-disaster risk, cooling climate, network connectivity, tax incentives, land price, and security - into a single weighted score, then visualizing the results on interactive maps.
+A decision support framework that ranks U.S. states as candidate locations for a data center by combining multiple siting factors - energy cost, natural-disaster risk, cooling climate, network connectivity, tax incentives, land price, and security into a single weighted score, then visualizing the results on interactive maps.
 
 > **Data disclosure:** The input factor values in this project are **synthetic / illustrative**, not live feeds from external APIs. The notebook implements the full scoring and mapping pipeline on hardcoded demonstration data so the methodology can be shown end to end. The state rankings below are therefore illustrative of the **method**, not a real-world siting recommendation.
 
