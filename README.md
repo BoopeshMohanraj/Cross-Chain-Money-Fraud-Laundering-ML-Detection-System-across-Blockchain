@@ -16,7 +16,14 @@ A decision support framework that ranks U.S. states as candidate locations for a
 
 ### Factors considered
 
-Electricity/industrial power rates · flood risk · seismic hazard · hurricane exposure · cooling climate · fiber & internet-exchange (IXP) connectivity · tax incentives · land prices · crime/security.
+Electricity/industrial power rates 
+flood risk · seismic hazard 
+hurricane exposure 
+cooling climate 
+fiber & internet-exchange (IXP) connectivity
+tax incentives 
+land prices 
+crime/security
 
 ---
 
